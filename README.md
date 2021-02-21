@@ -1,2 +1,2 @@
 # CurrencyConverter
-Currency converter.JetBrains Academy. Using module requests, json
+Currency converter. JetBrains Academy. Using module requests, json
